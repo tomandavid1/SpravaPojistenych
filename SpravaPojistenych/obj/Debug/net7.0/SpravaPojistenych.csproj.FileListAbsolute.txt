@@ -1,0 +1,15 @@
+D:\c#\SpravaPojistenych\SpravaPojistenych\bin\Debug\net7.0\SpravaPojistenych.exe
+D:\c#\SpravaPojistenych\SpravaPojistenych\bin\Debug\net7.0\SpravaPojistenych.deps.json
+D:\c#\SpravaPojistenych\SpravaPojistenych\bin\Debug\net7.0\SpravaPojistenych.runtimeconfig.json
+D:\c#\SpravaPojistenych\SpravaPojistenych\bin\Debug\net7.0\SpravaPojistenych.dll
+D:\c#\SpravaPojistenych\SpravaPojistenych\bin\Debug\net7.0\SpravaPojistenych.pdb
+D:\c#\SpravaPojistenych\SpravaPojistenych\obj\Debug\net7.0\SpravaPojistenych.csproj.AssemblyReference.cache
+D:\c#\SpravaPojistenych\SpravaPojistenych\obj\Debug\net7.0\SpravaPojistenych.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\SpravaPojistenych\SpravaPojistenych\obj\Debug\net7.0\SpravaPojistenych.AssemblyInfoInputs.cache
+D:\c#\SpravaPojistenych\SpravaPojistenych\obj\Debug\net7.0\SpravaPojistenych.AssemblyInfo.cs
+D:\c#\SpravaPojistenych\SpravaPojistenych\obj\Debug\net7.0\SpravaPojistenych.csproj.CoreCompileInputs.cache
+D:\c#\SpravaPojistenych\SpravaPojistenych\obj\Debug\net7.0\SpravaPojistenych.dll
+D:\c#\SpravaPojistenych\SpravaPojistenych\obj\Debug\net7.0\refint\SpravaPojistenych.dll
+D:\c#\SpravaPojistenych\SpravaPojistenych\obj\Debug\net7.0\SpravaPojistenych.pdb
+D:\c#\SpravaPojistenych\SpravaPojistenych\obj\Debug\net7.0\SpravaPojistenych.genruntimeconfig.cache
+D:\c#\SpravaPojistenych\SpravaPojistenych\obj\Debug\net7.0\ref\SpravaPojistenych.dll
